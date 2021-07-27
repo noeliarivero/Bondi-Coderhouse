@@ -289,6 +289,9 @@ iframe {
     color: black;
     text-align: right;
     margin: 0; }
+  @media screen and (max-width: 768px) {
+    .footer .footer {
+      height: 110px; } }
 
 @media screen and (min-width: 768px) {
   .containerMenu {
